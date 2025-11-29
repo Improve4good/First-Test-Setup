@@ -1,8 +1,8 @@
-SECURITY-ANALYSIS.md ska innehålla:
+# SECURITY-ANALYSIS.md ska innehålla:
 Säkerhetskrav-analys
 Checklista för implementerade säkerhetsfunktioner
 
-elevanta för er applikation t.ex:
+# Relevanta för er applikation t.ex:
 Injection attacks (SQL, NoSQL, Command)
 Cross-Site Scripting (XSS)
 Broken Authentication
